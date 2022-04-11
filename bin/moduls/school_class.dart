@@ -62,6 +62,8 @@ class ItSchool1 extends IT with coding, searching, copyPasting{
     return 'Name: $name \nStudentNumber: $studentNum \nAge: $age';
   }
 
+  void info() {}
+
 }
 
 class ItSchool2 extends IT with decorating, searching{
